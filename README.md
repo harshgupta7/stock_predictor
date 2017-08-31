@@ -6,6 +6,7 @@ Recurrent Neural Net for stock prediction on numerical and news data. Forecasts 
 
 ## Data
 Stock data-- Yahoo Stock API
+
 News (Sentiment) Data -- WebHose API
 
 ## Future Work
