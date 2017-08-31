@@ -11,4 +11,5 @@ News (Sentiment) Data -- WebHose API
 ## Future Work
 
 Restructuring and End to End implementation.
+
 Detailed Documentation.
