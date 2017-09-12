@@ -1,4 +1,4 @@
-# Stock Prediction
+# Stock Predictor
 Recurrent Neural Net for stock prediction on numerical and news data. Forecasts stock prices using a time series of stock data that is labelled with sentiments on those stocks at a given time point.
 
 ## Architecture
